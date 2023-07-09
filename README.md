@@ -1,4 +1,4 @@
-<h1>[ UNDER DEVELOPEMENT ]</h1>
+<h1>[ UNDER DEVELOPEMENT ] [replit API is not available at present]</h1>
 
 # GitHub-Replit Sync
 Allows you to host a program on Replit and regularly sync it with your GitHub repository. Just a few commands and host your github repository on repl.it
